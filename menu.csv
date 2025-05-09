@@ -1,0 +1,83 @@
+category_id,name,price,img
+1,Çay,20,cay
+1,Su,20,su
+1,Kuşburnu,30,kusburnu
+1,Kivi,30,kivi
+1,Nane Limon,30,nane_limon
+1,Muz,30,muz
+1,Karadut,30,karadut
+1,Elma,30,elma
+1,Büyük Çay,30,buyuk_cay
+1,Atom,70,atom
+1,Ihlamur,70,ihlamur
+1,Ballı Süt,70,balli_sut
+1,Yeşil Çay,70,yesil_cay
+1,Nescafe,100,nescafe
+1,Sıcak Çikolata,100,sicak_cikolata
+1,Türk Kahvesi,100,turk_kahvesi
+1,Osmanlı Kahvesi,100,turk_kahvesi
+1,Vanilyalı Türk Kahvesi,100,turk_kahvesi_v2
+1,Damla Sakızlı Türk Kahvesi,100,turk_kahvesi_v2
+1,Fındıklı Türk Kahvesi,100,turk_kahvesi_v2
+1,Dibek Kahvesi,100,dibek_kahvesi
+2,İzmir,350,nargile
+2,Love 66,350,nargile
+2,Lady Killer,350,nargile
+2,Karpuz,350,nargile
+2,Damla Sakızlı,350,nargile
+2,Çift Elma,350,nargile
+2,Üzüm,350,nargile
+2,Yaban Üzüm,350,nargile
+2,Kola Limon,350,nargile
+2,Çilek,350,nargile
+2,Maskov Nights,350,nargile
+2,Tatlıo,350,nargile
+2,Kavun,350,nargile
+2,Portakal,350,nargile
+2,Dejavu,350,nargile
+2,Atom,375,nargile
+2,Dejavu Karışım,375,nargile
+2,Special Nargile Napoli,375,nargile
+2,Special Nargile Lale,375,nargile
+2,Special Nargile Cappucino,375,nargile
+2,Special Nargile İsteğe Bağlı,375,nargile
+3,Limonata,80,limonata
+3,Kola,70,kola
+3,Fanta,70,fanta
+3,DİDİ Çeşitleri,70,didi_cesitleri
+3,Ayran,60,ayran
+3,Çorçil,60,corcil
+3,Soda,35,soda
+3,Meyveli Soda,35,meyveli_soda
+3,Fındıklı,100,findikli
+4,Klasik Gazoz,70,klasik_gazoz
+4,Zencefilli Gazoz,70,zencefilli_gazoz
+4,Reyhanlı Gazoz,70,reyhanli_gazoz
+4,Turunçgiller Gazoz,70,turuncgiller_gazoz
+5,Vişne,70,visne
+5,Kayısı,70,kayisi
+5,Karışık Meyve Suyu,70,karisik_meyve_suyu
+5,Şeftali,70,seftali
+6,Kasap Köftesi,280,kasap_koftesi
+6,Kayseri Yağlaması,280,kayseri_yaglamasi
+6,Büyük Cips,225,buyuk_cips
+6,Schnitzel,185,schnitzel
+6,Nugget,185,nugget
+6,Cheese Burger,185,cheese_burger
+6,Ekmek Arası Köfte (Yarım),250,ekmek_arasi_kofte
+6,Küçük Cİps,200,kucuk_cips
+6,Hamburger,185,hamburger
+6,Karışık Patso,185,karisik_patso
+6,Patso,150,patso
+6,Menemen,185,menemen
+6,Çerez Tabağı,120,cerez_tabagi
+6,Çekirdek,100,cekirdek
+6,Patlamış Mısır,100,patlamis_misir
+7,Fırın Sütlaç,120,firin_sutlac
+7,Profiterol,120,profiterol
+7,Trileçe,120,trilece
+8,Kaşarlı,120,kasarli
+8,Sucuklu,120,sucuklu
+8,Kaşar - Domates,120,kasar_domates
+8,Karışık,135,karisik
+8,Ayvalık Tostu,150,ayvalik_tostu
